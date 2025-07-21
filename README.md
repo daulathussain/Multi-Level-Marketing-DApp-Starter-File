@@ -10,7 +10,7 @@ Create and deploy Blockchain Multi-Level Marketing (MLM) DApp with Reward Crypto
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/sYud_TvnP3s?si=y97qLY5UTmn-uXki)
 
 Discover how to create and deploy a Blockchain Multi-Level Marketing (MLM) DApp that uses a Matrix plan to reward users with crypto tokens! 🚀
 In this complete blockchain project, we combine Solidity smart contracts, Next.js frontend, and web3 tools to build a real-world decentralized MLM platform.
